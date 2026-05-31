@@ -1,0 +1,15 @@
+# Sentinel AI — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+flask>=3.0.0
+requests>=2.31.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# ── Optional: Face Recognition ───────────────────────────────
+# Uncomment below to enable face recognition feature.
+# Requires cmake and Visual Studio Build Tools on Windows.
+# face_recognition
+# dlib
